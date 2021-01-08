@@ -10,6 +10,14 @@
 	padding: 80px;
 }
 
+.header-image {
+	height: 700px;
+	background-image: url(../img/driko.png);
+	background-size: 100%;
+	background-repeat: no-repeat;
+	background-color: #E5E000;
+}
+
 h1, h2 {
 	font-family: 'Oswald', sans-serif;
 	font-size: 50px;
@@ -25,6 +33,12 @@ h1, h2 {
 
 .main-container {
 	padding: 110px 80px 100px 80px;
+}
+
+a {
+	font-family: 'Helvetica', sans-serif;
+	font-size: 30px;
+	font-weight: 300;
 }
 
 p {
