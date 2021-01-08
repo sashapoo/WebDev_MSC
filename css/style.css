@@ -1,0 +1,52 @@
+@import url(reset.css);
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@500&display=swap');
+
+.header-container, .footer-container {
+	background-color: #E5E000;
+	color: white;
+}
+
+.header-container h1 {
+	padding: 80px;
+}
+
+.header-image {
+	height: 700px;
+	background-image: url(../img/driko.png);
+	background-size: 100%;
+	background-repeat: no-repeat;
+	background-color: #E5E000;
+}
+
+h1, h2 {
+	font-family: 'Oswald', sans-serif;
+	font-size: 50px;
+	font-weight: 700;
+}
+
+.caption {
+	font-family: 'Helvetica', sans-serif;
+	font-size: 25px;
+	font-weight: 700;
+	padding: 36px 80px 35px 80px;
+}
+
+.main-container {
+	padding: 110px 80px 100px 80px;
+}
+
+a {
+	font-family: 'Helvetica', sans-serif;
+	font-size: 30px;
+	font-weight: 300;
+}
+
+p {
+	font-family: 'Helvetica', sans-serif;
+	font-size: 30px;
+	font-weight: 300;
+}
+
+.footer-container {
+	padding: 77px 80px 77px 80px;
+}
